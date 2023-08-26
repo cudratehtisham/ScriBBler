@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "file1-1",
+			"path": "../../../Desktop/file1-1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Course+6+Project+Stub+-+Scribbler (2)",
+		"liveServer.settings.port": 5501
+	}
+}
